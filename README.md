@@ -709,3 +709,6 @@ Project H4ckD4D
 
 ### Some random webcams
 - http.title:"Webcam"
+
+### Cam Live View AXIS and Panasonic - Ch312 C4uZ
+intitle:"Live View / - AXIS" | intitle:"Live View / - Panasonic"
